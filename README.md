@@ -1,0 +1,1 @@
+SQS (Simple Quest System) is, as stated in a name, a simple system designed to help you create and maintain quests in you game as simple as possible. Features would be updated as they come.
