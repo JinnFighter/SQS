@@ -9,7 +9,7 @@ namespace SQS
             Quest = quest;
         }
 
-        public abstract void UpdateProgress();
+        protected abstract void UpdateProgress();
 
         public void Update()
         {
